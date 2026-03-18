@@ -54,8 +54,16 @@ A combinação destes dados revela uma maturidade digital crescente:
 3.  **Mobilidade Total:** Infraestrutura focada no usuário móvel e conectado.
 
 
-##4
+### 4
+### Resumo Executivo: Papel da TI nas Organizações (FGVcia 2025)
+
+A 36ª Pesquisa do FGVcia evidencia a **maturidade digital** brasileira, com a TI consolidada como um **ativo estratégico** e prioridade da alta gestão. Com um investimento médio de **10% da receita bruta**, as empresas deixaram de focar apenas no suporte para priorizar a transformação de negócios e diferenciação competitiva.
+
+A eficiência dessa estratégia é monitorada pelo **CAPU (R$ 60.000 por usuário)**, garantindo governança e escalabilidade. Tecnologicamente, a integração via **ERP/BI** soma-se à ascensão da **Inteligência Artificial** e ao uso massivo de **dispositivos móveis**, viabilizando organizações onipresentes, ágeis e capazes de operar de forma distribuída com alta resiliência.
 
 
+### Conclusão
+
+A análise da 36ª Pesquisa Anual do FGVcia (2025) confirma que a Tecnologia da Informação consolidou seu papel como o principal motor de transformação e competitividade nas empresas brasileiras. O investimento médio de 10% do faturamento e a priorização de projetos em Inteligência Artificial demonstram que a TI não é mais um setor de suporte, mas um ativo estratégico vital. Com uma infraestrutura cada vez mais móvel e custos de gestão bem definidos (CAPU), as organizações alcançaram um nível de maturidade digital que permite a integração total de processos e uma tomada de decisão baseada em dados, garantindo agilidade e onipresença no mercado atual.
 
 *Fonte dos dados: 36ª Pesquisa Anual do Uso de TI - FGVcia, 2025.*
