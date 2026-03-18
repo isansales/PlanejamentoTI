@@ -1,6 +1,6 @@
 # Análise: O Papel da Tecnologia da Informação nas Organizações (FGVcia 2025)
 
-### 1
+# 1
 ## TI como Investimento Estratégico (Alinhamento Estratégico)
 De acordo com a pesquisa, o gasto e investimento em TI atingiu **10% da receita** das empresas brasileiras. Esse dado é um indicador claro do **Alinhamento Estratégico**, onde a TI deixa de ser um custo operacional para se tornar um pilar de sobrevivência e crescimento.
 
@@ -28,7 +28,7 @@ A pesquisa aponta a migração do papel da TI de "suporte" para "inteligência p
 ## Indicadores de Custo e Maturidade Digital
 O **CAPU (Custo Anual de TI por Usuário)**, que chegou a **R$ 60.000** em média (e R$ 162.000 nos bancos), serve como métrica de desempenho. 
 
-##3
+# 3
 # 1. Gasto e Investimento em TI (10% da Receita)
 Este indicador mede a porcentagem da receita bruta das empresas que é direcionada para custeio e investimentos em tecnologia.
 
@@ -54,7 +54,7 @@ A combinação destes dados revela uma maturidade digital crescente:
 3.  **Mobilidade Total:** Infraestrutura focada no usuário móvel e conectado.
 
 
-### 4
+# 4
 ### Resumo Executivo: Papel da TI nas Organizações (FGVcia 2025)
 
 A 36ª Pesquisa do FGVcia evidencia a **maturidade digital** brasileira, com a TI consolidada como um **ativo estratégico** e prioridade da alta gestão. Com um investimento médio de **10% da receita bruta**, as empresas deixaram de focar apenas no suporte para priorizar a transformação de negócios e diferenciação competitiva.
