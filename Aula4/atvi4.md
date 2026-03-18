@@ -1,6 +1,6 @@
 # Análise: O Papel da Tecnologia da Informação nas Organizações (FGVcia 2025)
 
-##1
+### 1
 ## TI como Investimento Estratégico (Alinhamento Estratégico)
 De acordo com a pesquisa, o gasto e investimento em TI atingiu **10% da receita** das empresas brasileiras. Esse dado é um indicador claro do **Alinhamento Estratégico**, onde a TI deixa de ser um custo operacional para se tornar um pilar de sobrevivência e crescimento.
 
